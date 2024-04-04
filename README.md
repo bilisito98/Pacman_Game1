@@ -14,3 +14,9 @@ the next level, where the dots become harder to reach and the ghosts become more
 
 Pac-Man became a cultural phenomenon, spawning a series of sequels, adaptations and spin-offs on various gaming platforms and 
 entertainment media. It has been the subject of multiple academic studies and has influenced popular culture significantly since its release.
+
+
+
+
+//use this map to guide
+![map](https://github.com/bilisito98/Pacman_Game1/assets/102624868/cd724c43-173d-42da-a029-c8612a31b6e9)
