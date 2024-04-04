@@ -19,4 +19,13 @@ entertainment media. It has been the subject of multiple academic studies and ha
 
 
 //use this map to guide
+
 ![map](https://github.com/bilisito98/Pacman_Game1/assets/102624868/cd724c43-173d-42da-a029-c8612a31b6e9)
+
+
+
+This guide map is for you'rs at the same time you see the diferents codes for this case and study basics columns.
+this and example game for you try create:
+
+![image](https://github.com/bilisito98/Pacman_Game1/assets/102624868/a56f741d-f8da-449c-952f-aa5ac5409e9d)
+
