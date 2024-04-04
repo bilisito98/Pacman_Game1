@@ -29,3 +29,8 @@ this and example game for you try create:
 
 ![image](https://github.com/bilisito98/Pacman_Game1/assets/102624868/a56f741d-f8da-449c-952f-aa5ac5409e9d)
 
+
+
+that the secuence for PAC-MAN moves:
+
+![animations](https://github.com/bilisito98/Pacman_Game1/assets/102624868/62bf3e8a-e909-4336-a784-ba979c5e0a92)
