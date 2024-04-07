@@ -16,6 +16,17 @@ class Ghost {
         setInterval(()=>{
             this.changeRandomDirection();
         }, 10000);
-
     }
+    isInRange(){
+        let xDistance = Math.abs(pacman.getMapX() - this.getMapX());
+        let yDistance = Math.abs(pacman.getMapY() - this.getMapY());
+        if (
+            Math.sqrt(xDistance*xDistance+yDistance*yDistance)<=
+            this.range
+        ){
+            return true;
+        }
+        return false;
+    }
+    
 }
